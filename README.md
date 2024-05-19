@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hlludlow
-- 👀 I’m interested in practicing code!
+- 👀 I’m new here and interested in practicing code!
 - 🌱 I’m currently learning html basics.
 - 💞️ I’m looking to collaborate on ... nothing yet, but I'm interested in mentorship!
 - 📫 How to reach me ...
